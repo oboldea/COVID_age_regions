@@ -1,4 +1,4 @@
-This contains only the code for the Main Figures of the paper Boldea et al (2023) Age-specific transmission dynamics of
+This contains only the main code and the code for the Main Figures of the paper Boldea et al (2023) Age-specific transmission dynamics of
 SARS-CoV-2 during the first two years of the
 pandemic. The output files are too large to upload on Github. For downloading a ZIP file of the code (3.2 GB), please visit
 
